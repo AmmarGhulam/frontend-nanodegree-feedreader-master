@@ -20,8 +20,10 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 * Writing effective tests requires analyzing multiple aspects of an application including the HTML, CSS and JavaScript - an extremely important skill when changing teams or joining a new company.
 * Good tests give you the ability to quickly analyze whether new code breaks an existing feature within your codebase, without having to manually test all of the functionality.
 
+# how to run
+use this link (https://github.com/AmmarGhulam/frontend-nanodegree-feedreader-master.git) to download or clone repositorie then run index.html . 
 
-# How will I complete this project?
+# How  I completed this project?
 
 Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
 
@@ -43,6 +45,6 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 16. Write a test that ensures when a new feed is loaded by the `loadFeed` function that the content actually changes.
 17. No test should be dependent on the results of another.
 18. Callbacks should be used to ensure that feeds are loaded before they are tested.
-19. Implement error handling for undefined variables and out-of-bound array access.
+19. Implement error handling for undefined variables and out-of-bound array access.*Not Applicable* 
 20. When complete - all of your tests should pass. 
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
