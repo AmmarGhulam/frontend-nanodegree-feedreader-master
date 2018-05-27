@@ -80,7 +80,7 @@ $(function() {
         });
         it('has a least a single .entry element within the .feed container', function(done) {
             //expects that there is at least one entry within .feed 
-            expect($(".feed").find(".entry").length).toBeGreaterThan(0);
+            expect($(".feed .entry").length).toBeGreaterThan(0);
             done();
         });
     });
